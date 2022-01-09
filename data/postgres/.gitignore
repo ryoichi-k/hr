@@ -1,1 +1,4 @@
-/data/postgres/pg_stat_tmp
+#pg_stat_tmpを追跡から除外
+db_0.stat
+db_13117.stat
+global.stat
