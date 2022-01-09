@@ -10,4 +10,8 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-pg_stat_tmp
+
+#pg_stat_tmpを追跡から除外
+db_0.stat
+db_13117.stat
+global.stat
